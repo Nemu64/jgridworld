@@ -56,3 +56,9 @@ target/
 
 ### Preferences
 ![Preferences](docs/screenshots/prefs.png)
+
+## Credit where it's due
+JGridWorld was built using the following:
+* FlatLaf (https://github.com/JFormDesigner/FlatLaf/tree/main)
+* jSystemThemeDetector (https://github.com/Dansoftowner/jSystemThemeDetector/tree/master)
+* JNA (https://github.com/java-native-access/jna)
